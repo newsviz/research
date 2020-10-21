@@ -1,0 +1,210 @@
+strict digraph {
+	node [shape=point];
+	n0_27 -> n1_1 [penwidth=1.55];
+	n1_3 -> n2_0 [penwidth=0.42];
+	n0_47 -> n1_5 [penwidth=0.38];
+	n0_20 -> n1_2 [penwidth=4.47];
+	n0_14 -> n1_4 [penwidth=0.45];
+	n0_7 -> n1_6 [penwidth=1.02];
+	n0_49 -> n1_0 [penwidth=0.88];
+	n0_43 -> n1_1 [penwidth=1.06];
+	n0_16 -> n1_0 [penwidth=0.70];
+	n1_6 -> n2_0 [penwidth=0.14];
+	n0_10 -> n1_0 [penwidth=1.73];
+	n0_36 -> n1_3 [penwidth=1.28];
+	n0_3 -> n1_8 [penwidth=2.37];
+	n0_28 -> n1_7 [penwidth=4.01];
+	n1_2 -> n2_0 [penwidth=0.39];
+	n0_32 -> n1_9 [penwidth=1.12];
+	n0_21 -> n1_0 [penwidth=0.24];
+	n0_15 -> n1_6 [penwidth=3.01];
+	n0_24 -> n1_1 [penwidth=0.15];
+	n0_44 -> n1_1 [penwidth=0.86];
+	n0_17 -> n1_1 [penwidth=1.13];
+	n1_5 -> n2_0 [penwidth=1.51];
+	n0_11 -> n1_2 [penwidth=2.44];
+	n0_37 -> n1_3 [penwidth=3.34];
+	n0_4 -> n1_9 [penwidth=1.02];
+	n0_40 -> n1_5 [penwidth=1.08];
+	n0_29 -> n1_1 [penwidth=0.34];
+	n1_1 -> n2_0 [penwidth=4.77];
+	n0_33 -> n1_4 [penwidth=0.35];
+	n0_22 -> n1_2 [penwidth=0.22];
+	n0_0 -> n1_6 [penwidth=0.38];
+	n0_25 -> n1_2 [penwidth=1.95];
+	n0_45 -> n1_5 [penwidth=1.39];
+	n0_18 -> n1_8 [penwidth=0.88];
+	n1_4 -> n2_0 [penwidth=0.40];
+	n0_12 -> n1_0 [penwidth=1.42];
+	n0_38 -> n1_2 [penwidth=0.09];
+	n0_5 -> n1_6 [penwidth=0.70];
+	n1_9 -> n2_0 [penwidth=0.27];
+	n0_41 -> n1_5 [penwidth=1.20];
+	n0_30 -> n1_4 [penwidth=0.45];
+	n1_0 -> n2_0 [penwidth=0.01];
+	n0_8 -> n1_8 [penwidth=1.15];
+	n0_34 -> n1_4 [penwidth=1.09];
+	n0_23 -> n1_1 [penwidth=3.19];
+	n0_1 -> n1_4 [penwidth=2.74];
+	n0_26 -> n1_4 [penwidth=0.39];
+	n0_46 -> n1_5 [penwidth=1.04];
+	n0_19 -> n1_0 [penwidth=2.22];
+	n0_13 -> n1_1 [penwidth=0.53];
+	n0_39 -> n1_9 [penwidth=0.70];
+	n1_8 -> n2_0 [penwidth=0.04];
+	n0_6 -> n1_0 [penwidth=1.59];
+	n0_48 -> n1_6 [penwidth=0.07];
+	n0_42 -> n1_0 [penwidth=0.49];
+	n0_31 -> n1_0 [penwidth=0.96];
+	n1_7 -> n2_0 [penwidth=0.63];
+	n0_9 -> n1_7 [penwidth=2.33];
+	n0_35 -> n1_3 [penwidth=2.28];
+	n0_2 -> n1_8 [penwidth=0.65];
+	n0_27 [label="27:депутат госдума
+парламент закон
+законопроект поправка",shape=none,fontcolor="black"]
+	n1_3 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.25,label="3"]
+	n0_47 [label="47:запрет ввести
+ограничение запретить
+введение вводить",shape=none,fontcolor="black"]
+	n0_20 [label="20:риа новость москва рф
+область интерфакс",shape=none,fontcolor="black"]
+	n0_14 [label="14:музей церковь художник
+искусство век животное",shape=none,fontcolor="black"]
+	n0_7 [label="7:аль израиль ирак
+израильский сирия
+палестинский",shape=none,fontcolor="black"]
+	n0_49 [label="49:общий составить
+составлять сложность
+превышать максимальный",shape=none,fontcolor="black"]
+	n0_43 [label="43:документ говориться
+организация просьба
+обратиться направить",shape=none,fontcolor="black"]
+	n0_16 [label="16:полиция больница
+убийство мужчина летний
+скончаться",shape=none,fontcolor="black"]
+	n1_6 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.14,label="6"]
+	n0_10 [label="10:доллар миллиард рубль
+миллион сумма финансовый",shape=none,fontcolor="black"]
+	n0_36 [label="36:свой обама барак очень
+дональд хотеть",shape=none,fontcolor="black"]
+	n0_3 [label="3:погибнуть произойти
+человек ранение
+происшествие пострадать",shape=none,fontcolor="black"]
+	n0_28 [label="28:обвинение арестовать
+предъявить арест
+расследование бывший",shape=none,fontcolor="black"]
+	n1_2 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.36,label="2"]
+	n0_32 [label="32:вода остров океан
+берег землетрясение
+побережье",shape=none,fontcolor="black"]
+	n0_21 [label="21:станция космический
+километр орбита поезд
+оснастить",shape=none,fontcolor="black"]
+	n0_15 [label="15:военный войско оборона
+армия военнослужащий
+вооружённый",shape=none,fontcolor="black"]
+	n0_24 [label="24:грузия грузинский
+тбилиси абхазия
+саакашвили казахстан",shape=none,fontcolor="black"]
+	n0_44 [label="44:безопасность ведомство
+министерство сторона
+ядерный цель",shape=none,fontcolor="black"]
+	n0_17 [label="17:партия выбор выборы
+кандидат избирательный
+голосование",shape=none,fontcolor="black"]
+	n1_5 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.16,label="5"]
+	n0_11 [label="11:the сша американский
+press штат associated",shape=none,fontcolor="black"]
+	n0_37 [label="37:внимание который
+говорить наш интервью
+обратить",shape=none,fontcolor="black"]
+	n0_4 [label="4:учёный исследователь
+исследование журнал
+университет земля",shape=none,fontcolor="black"]
+	n0_40 [label="40:страна ес евросоюз
+международный санкция
+саммит",shape=none,fontcolor="black"]
+	n0_29 [label="29:протест митинг
+активист беспорядок
+протестовать против",shape=none,fontcolor="black"]
+	n1_1 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.42,label="1"]
+	n0_33 [label="33:одежда коллекция
+изображение снимка цвета
+обувь",shape=none,fontcolor="black"]
+	n0_22 [label="22:германия франция
+французский немецкий
+италия евро",shape=none,fontcolor="black"]
+	n0_0 [label="0:матч чемпионат команда
+сборный клуб турнир",shape=none,fontcolor="black"]
+	n0_25 [label="25:россия владимир
+российский путин сергей
+дмитрий",shape=none,fontcolor="black"]
+	n0_45 [label="45:принять решение
+участие принимать
+отказаться переговоры",shape=none,fontcolor="black"]
+	n0_18 [label="18:боевик террорист
+теракт террористический
+группировка чечня",shape=none,fontcolor="black"]
+	n1_4 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.19,label="4"]
+	n0_12 [label="12:акция газпром акционер
+нефть актив крупный",shape=none,fontcolor="black"]
+	n0_38 [label="38:наука хозяйство
+образование институт вуз
+студент",shape=none,fontcolor="black"]
+	n0_5 [label="5:самолёт борт полёт
+экипаж авиакомпания рейс",shape=none,fontcolor="black"]
+	n1_9 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.03,label="9"]
+	n0_41 [label="41:газета писать однако
+пора сей речь",shape=none,fontcolor="black"]
+	n0_30 [label="30:лента ру страница
+опубликовать видео
+facebook",shape=none,fontcolor="black"]
+	n1_0 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.60,label="0"]
+	n0_8 [label="8:уголовный дело
+возбудить задержать
+следствие следственный",shape=none,fontcolor="black"]
+	n0_34 [label="34:сыграть выйти лос
+хороший анджелес играть",shape=none,fontcolor="black"]
+	n0_23 [label="23:президент министр
+глава заявить
+правительство премьер",shape=none,fontcolor="black"]
+	n0_1 [label="1:фильм режиссёр картина
+актёр роль музыкант",shape=none,fontcolor="black"]
+	n0_26 [label="26:ребёнок женщина
+родитель девушка жена
+семья",shape=none,fontcolor="black"]
+	n0_46 [label="46:год соглашение
+подписать контракт конец
+договор",shape=none,fontcolor="black"]
+	n0_19 [label="19:компания рынок цена
+продажа стоимость
+производитель",shape=none,fontcolor="black"]
+	n0_13 [label="13:украина украинский
+киев крым донецкий
+донбасс",shape=none,fontcolor="black"]
+	n0_39 [label="39:метр квадратный высота
+скорость длина площадь",shape=none,fontcolor="black"]
+	n2_0 [shape=point,height=0.17]
+	n1_8 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.12,label="8"]
+	n0_6 [label="6:процент рост вырасти
+показатель снижение
+сравнение",shape=none,fontcolor="black"]
+	n0_48 [label="48:источник ссылка
+собеседник агентство
+неназванный анонимный",shape=none,fontcolor="black"]
+	n0_42 [label="42:такой новый самый
+образ например новое",shape=none,fontcolor="black"]
+	n0_31 [label="31:проект система
+разработка создание
+программа быть",shape=none,fontcolor="black"]
+	n1_7 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.13,label="7"]
+	n0_9 [label="9:суд приговорить адвокат
+иск судебный лишение",shape=none,fontcolor="black"]
+	n0_35 [label="35:слово сказать
+подчеркнуть отметить
+мнение считать",shape=none,fontcolor="black"]
+	n0_2 [label="2:пользователь сервис
+интернет разработчик сеть
+выпустить",shape=none,fontcolor="black"]
+}
