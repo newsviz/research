@@ -6,11 +6,11 @@ All research and experiments in NewsViz Projects
 ```bash
 .
 ├── lemmatizers/ -- Лемматизация
-│    ├── Comparing lemmatizers (standart dataset).ipynb -- сравнение лемматизаторов WordNetLemmatizer, pymorphy2, Mystem, maru
-│    └── Comparing lemmatizers(lenta_news).ipynb -- сравнение лемматизаторов WordNetLemmatizer, pymorphy2 на данных lenta_news
+│    ├── Comparing lemmatizers (standart dataset).ipynb -- сравнение лемматизаторов
+│    └── Comparing lemmatizers(lenta_news).ipynb -- сравнение лемматизаторов на данных lenta_news
 ├── ner -- Распознавание именованных сущностей
 │    ├── md-extracting_NER.ipynb -- Сравнение библиотек polyglot, natasha, spacy для извлечение NER
-│    ├── vt-cleaned_names.ipynb -- 
+│    ├── vt-cleaned_names.ipynb -- Извлечение имен
 │    ├── vt-cleaned_names_rd.ipynb -- Эксперименты с извлечением имен
 │    └── extracting_NER.html -- 
 └──topic_models -- Тематическое моделирование
