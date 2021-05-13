@@ -39,7 +39,7 @@ All research and experiments in NewsViz Projects
 │    ├── gensim
 │        ├── Topic_model_lenta_time.ipynb -- Анализ тем по времени для news_lenta
 │        ├── Topic_modelling.ipynb -- Базовое использование LDA
-│        ├── Topic_modelling_more_topics_and_multicore.html --
+│        ├── Topic_modelling_more_topics_and_multicore.html -- .html версия Topic_modelling_more_topics_and_multicore.ipynb
 │        ├── Topic_modelling_more_topics_and_multicore.ipynb -- Базовое использование параллельной версии LDA
 │        ├── Topic_modelling_ngram.ipynb -- LDA на биграммах и триграммах
 │        ├── requirements.txt
